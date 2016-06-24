@@ -1,3 +1,5 @@
 # Geo Quiz
 
-Starter code for Geo Quiz project in Udacity's iOS Nanodegree.
+Geo Quiz project in Udacity's iOS Nanodegree.
+
+Using Udacity's Starter Code.'
